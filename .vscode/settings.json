@@ -1,0 +1,15 @@
+{
+    "docomment.activateOnEnter": true,
+    "C_Cpp.clang_format_fallbackStyle": "\"{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 90}\"",
+    "C_Cpp.clang_format_style": "\"{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 90}\"",
+    "C_Cpp.commentContinuationPatterns": [
+
+        "/**"
+    ],
+    "editor.rulers": [90],
+    "gitlab.instanceUrl": "https://gitlab.ele.etsmtl.ca",
+    "files.associations": {
+        "critere.h": "c",
+        "cstdlib": "c"
+    }
+}
